@@ -1,4 +1,4 @@
-# HCV_seq
+# HBV_seq
 
 ## Start using the project
 
